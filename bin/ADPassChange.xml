@@ -46,14 +46,6 @@ HeadContent control.
 Auto-generated field.
 To modify move field declaration from designer file to code-behind file.
 </remarks>
-</member><member name="F:ADPassChange.Site.MasterPageScriptManager">
-	<summary>
-MasterPageScriptManager control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
 </member><member name="F:ADPassChange.Site.HeadLoginView">
 	<summary>
 HeadLoginView control.
@@ -62,17 +54,9 @@ HeadLoginView control.
 Auto-generated field.
 To modify move field declaration from designer file to code-behind file.
 </remarks>
-</member><member name="F:ADPassChange.Site.HeadHomeLink">
+</member><member name="F:ADPassChange.Site.NavigationMenu">
 	<summary>
-HeadHomeLink control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:ADPassChange.Site.HeadAboutLink">
-	<summary>
-HeadAboutLink control.
+NavigationMenu control.
 </summary>
 	<remarks>
 Auto-generated field.
